@@ -1,0 +1,10 @@
+exportPattern("^[[:alpha:]]+")
+import(Rcpp, Matrix)
+importFrom("stats", "binomial", "glm", "model.matrix","lm","rnorm", "quantile","dbeta","qnorm")
+
+
+useDynLib(QSCAN, .registration = TRUE)
+
+# functions
+export(M_SCAN, Q_SCAN)
+

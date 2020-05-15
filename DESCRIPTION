@@ -1,0 +1,18 @@
+Package: QSCAN
+Type: Package
+Title: Simultaneous Detection of Signal Regions Using Quadratic Scan Statistics
+Version: 1.0.0
+Date: 2020-05-14
+Author: Zilin Li [aut, cre]
+Maintainer: Zilin Li <li@hsph.harvard.edu>
+Description: R package for performing Q-SCAN procedure in whole genome squencing studies.
+License: GPL-3
+Copyright: See COPYRIGHTS for details.
+Imports: Rcpp, RcppArmadillo, Matrix
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.0.0)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.1.0
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
