@@ -19,8 +19,8 @@ library(devtools)
 devtools::install_github("zilinli1988/QSCAN")
 ```
 ## Usage
-Please see the <a href="docs/QSCAN.pdf">**QSCAN** user manual</a> for detailed usage of QSCAN package. 
-Please see the <a href="docs/QSCAN_Example.pdf">**QSCAN** Example</a> for an example of analyzing sequencing data using Q-SCAN procedure.
+Please see the <a href="doc/QSCAN.pdf">**QSCAN** user manual</a> for detailed usage of QSCAN package. 
+Please see the <a href="doc/QSCAN_Example.pdf">**QSCAN** Example</a> for an example of analyzing sequencing data using Q-SCAN procedure.
 
 ## License
 This software is licensed under GPLv3.
