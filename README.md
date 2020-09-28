@@ -24,6 +24,6 @@ Please see the <a href="doc/QSCAN_Example.pdf">**QSCAN** Example</a> for an exam
 ## Citation
 If you use **QSCAN** for your work, please cite:
 
-Zilin Li, Yaowu Liu, and Xihong Lin (2020) "Simultaneous Detection of Signal Regions Using Quadratic Scan Statistics With Applications toWhole Genome Association Studies". _JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION_. DOI: <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1822849?journalCode=uasa20">10.1080/01621459.2020.1822849</a>.
+Zilin Li, Yaowu Liu, and Xihong Lin (2020) "Simultaneous Detection of Signal Regions Using Quadratic Scan Statistics With Applications to Whole Genome Association Studies". _JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION_. DOI: <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1822849?journalCode=uasa20">10.1080/01621459.2020.1822849</a>.
 ## License
 This software is licensed under GPLv3.
